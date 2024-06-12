@@ -23,7 +23,7 @@ fun main () {
 
     //интервалы в условиях
     if (level in 1..5){
-        println("level less 5")
+        println("level less 6")
     }
     //until не берет верхнюю границу
     if (level in 1 until 5){
