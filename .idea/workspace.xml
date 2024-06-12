@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="737074a0-9bc1-4f40-9c61-cdb9f0e632d0" name="Changes" comment="learning">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/kotlin/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Main.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -77,7 +78,7 @@
       <workItem from="1717944352401" duration="3003000" />
       <workItem from="1718124689602" duration="3362000" />
       <workItem from="1718212769381" duration="1628000" />
-      <workItem from="1718214434091" duration="549000" />
+      <workItem from="1718214434091" duration="1946000" />
     </task>
     <task id="LOCAL-00001" summary="learning">
       <created>1718213685857</created>
@@ -93,7 +94,14 @@
       <option name="project" value="LOCAL" />
       <updated>1718214543738</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="learning">
+      <created>1718215015616</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1718215015616</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
