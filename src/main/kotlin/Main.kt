@@ -1,4 +1,7 @@
+const val INFO = "text"
+
 fun main () {
-        println("test")
+        println(INFO)
+        var text = "string"
     }
 
