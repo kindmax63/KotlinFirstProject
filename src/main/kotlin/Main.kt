@@ -1,3 +1,6 @@
+import kotlin.random.Random
+import kotlin.system.exitProcess
+
 const val INFO = "text"
 //val - переменные только для чтения
 //var - переменные изменяемые
@@ -34,6 +37,18 @@ fun main () {
         println("интервал с убывающими значениями - downTo")
     }
 
+
+    //when
+    when (angry) {
+        true -> exitProcess(1)
+        false -> exitProcess(2)
+    }
+
+    var playerName: String = when (level) {
+        1 -> "Master"
+        2 -> "Beginner"
+    }
+    //
 
     }
 
